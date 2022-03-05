@@ -25,13 +25,13 @@ export default function ImagesCarousel() {
 
       <Carousel autoPlay showThumbs={false}>
         <div>
-          <img className="h-[600px]" src={cover} />
+          <img className="h-[70vh]" src={cover} />
         </div>
         <div>
-          <img className="h-[600px]" src={cover} />
+          <img className="h-[70vh]" src={cover} />
         </div>
         <div>
-          <img className="h-[600px]" src={cover} />
+          <img className="h-[70vh]" src={cover} />
         </div>
       </Carousel>
     </div>
